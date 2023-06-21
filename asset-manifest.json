@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Word-Count/static/css/main.d299ff1b.css",
+    "main.js": "/Word-Count/static/js/main.b75362e0.js",
+    "static/js/787.f2512186.chunk.js": "/Word-Count/static/js/787.f2512186.chunk.js",
+    "index.html": "/Word-Count/index.html",
+    "main.d299ff1b.css.map": "/Word-Count/static/css/main.d299ff1b.css.map",
+    "main.b75362e0.js.map": "/Word-Count/static/js/main.b75362e0.js.map",
+    "787.f2512186.chunk.js.map": "/Word-Count/static/js/787.f2512186.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d299ff1b.css",
+    "static/js/main.b75362e0.js"
+  ]
+}
